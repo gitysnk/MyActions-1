@@ -3,10 +3,6 @@
 ### pt_key=****;pt_pin=***;&pt_key=****;pt_pin=***;
 
 ![sazs34’s github stats](https://github-readme-stats.vercel.app/api?username=sazs34&show_icons=true&theme=merko)
-
-# MyActions
-自己用来签到的东东,不支持售后
-
 更新时间:2020-8-31 18:35:00
 
 ##
